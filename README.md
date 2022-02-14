@@ -3,12 +3,13 @@
 If you're looking for a way to generate word documents in bulk, this script is for you. This script will generate word documents based on a excel list.
 
 ## Demo
-![Demo](/demo.jpg?raw=true "Demo")
+[![YouTube Video](https://img.youtube.com/vi/svcv8uub0D0/0.jpg)](https://youtu.be/svcv8uub0D0)
 
 
 ## Requirements
 ```
 docxtpl==0.11.4
+openpyxl==3.0.9
 pandas==1.3.5
 ```
 

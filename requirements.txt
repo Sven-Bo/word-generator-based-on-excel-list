@@ -1,2 +1,3 @@
 docxtpl==0.11.4
+openpyxl==3.0.9
 pandas==1.3.5
