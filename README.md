@@ -2,7 +2,7 @@
 
 If you're looking for a way to generate word documents in bulk, this script is for you. This script will generate word documents based on a excel list.
 
-## Demo
+## Video Tutorial
 [![YouTube Video](https://img.youtube.com/vi/Zy9sx4GvjUY/0.jpg)](https://youtu.be/Zy9sx4GvjUY)
 
 
