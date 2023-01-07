@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd  # pip install pandas openpyxl
 from docxtpl import DocxTemplate  # pip install docxtpl
 
-base_dir = Path(__file__).parent
+base_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 word_template_path = base_dir / "vendor-contract.docx"
 excel_path = base_dir / "contracts-list.xlsx"
 output_dir = base_dir / "OUTPUT"
